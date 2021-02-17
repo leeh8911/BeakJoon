@@ -1,5 +1,5 @@
 *.pptx
 
-*/.vs
-*/Debug
+*/.vs/
+*/Debug/
 
