@@ -1,0 +1,14 @@
+*.pptx
+*.obj
+*.log
+*.exe
+*.enc
+*.tlog
+*.recipe
+*.idb
+*.pdb
+
+/.vs/
+
+/Debug/*
+
