@@ -1,5 +1,26 @@
 *.pptx
+*.obj
+*.enc
+*.recipe
+*.log
+*.tlog
+*.db
+*.idb
+*.pdb
+*.VC.db
 
-*/.vs/
-*/Debug/
+/.vs/
+/Debug/
 
+.vs/beakjoon/v16/Browse.VC.db
+.vs/beakjoon/v16/Browse.VC.db-shm
+.vs/beakjoon/v16/Browse.VC.db-wal
+.vs/beakjoon/v16/Browse.VC.opendb
+.vs/beakjoon/v16/ipch/AutoPCH/41d8ce7c1edf9f0d/10872.ipch
+.vs/beakjoon/v16/ipch/AutoPCH/7904a29a5e45a8bc/1002.ipch
+.vs/beakjoon/v16/ipch/AutoPCH/9413751244be3563/3009.ipch
+.vs/beakjoon/v16/ipch/AutoPCH/aa639b15c8107918/4153.ipch
+.vs/beakjoon/v16/ipch/AutoPCH/d6bebf7a77b5666c/3053.ipch
+*.db
+*.db
+.vs/beakjoon/v16/Browse.VC.db
